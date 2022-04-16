@@ -6,7 +6,7 @@ Testado nos modelos Raspberry Pi 3B, 2B e B+, e nas versões Bullseye e Buster d
 Para executar o script, digite "sudo bash pos-install-raspberry-pi.sh".
 
 
-Para restaurar os arquivos originais (apos a primeira execucao), digite "sudo bash pos-install-raspberry-pi.sh restore".
+Para restaurar os arquivos originais (após a primeira execução), digite "sudo bash pos-install-raspberry-pi.sh restore".
 
 
 !!!!!!!! USE POR SUA CONTA E RISCO !!!!!!!!
